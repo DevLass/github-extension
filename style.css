@@ -1,0 +1,150 @@
+.lang_button, .linkedin_button{
+    margin-top: 5px;
+    color: var(--color-btn-text);
+    background-color: var(--color-btn-bg);
+    border-color: var(--color-btn-border);
+    box-shadow: var(--color-btn-shadow),var(--color-btn-inset-shadow);
+    transition: 80ms cubic-bezier(0.33, 1, 0.68, 1);
+    transition-property: color,background-color,box-shadow,border-color;
+    border-radius: 7px;
+    padding: 5px;
+    position: relative;
+    display: inline-block;
+    padding: 5px 16px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    border: 1px solid;
+    border-radius: 6px;
+    -webkit-appearance: none;
+    appearance: none;
+    width: 100%;
+}   
+
+.linkedin_button:hover{
+    transition: 250ms;
+    background-color: #0e76a8;
+    border: 2px solid;
+    color: white;
+    font-family: Helvetica, sans-serif;
+    font-style: italic;
+    border-color: white;
+}
+
+.lang_button:hover{
+    background-color: var(--color-btn-hover-bg);
+    border-color: var(--color-btn-hover-border);
+    transition-duration: .1s;
+    text-decoration: none;
+}
+
+.my_name{
+    background: linear-gradient(
+        to right, 
+        #A1BAFE, 
+        #6E72FC
+      );
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-align: center;
+}
+
+.stars{
+    color: #FFFF04;
+}
+
+#js-pjax-container > div.mt-4.position-sticky.top-0.d-none.d-md-block.color-bg-default.width-full.border-bottom.color-border-muted > div > div > div.Layout-main > div > nav > a > svg{
+    color: #ffffff;
+    fill: #ffffff;
+}
+
+/* Starts Button Hover*/
+
+#js-pjax-container > div.mt-4.position-sticky.top-0.d-none.d-md-block.color-bg-default.width-full.border-bottom.color-border-muted > div > div > div.Layout-main > div > nav > a:nth-child(5) {
+    color: #fff;
+    background-image: linear-gradient(#7E40F7 0 0);
+    background-size: 100% .08em; /* .08em is our fixed height; modify as needed. */
+    background-repeat: no-repeat;
+    transition: background-size .3s, background-position .3s .3s;
+  }
+
+
+#js-pjax-container > div.mt-4.position-sticky.top-0.d-none.d-md-block.color-bg-default.width-full.border-bottom.color-border-muted > div > div > div.Layout-main > div > nav > a:nth-child(5):hover {
+    transition: background-size .3s .3s, background-position .3s;
+    background-size: 100% 100%;
+}
+
+/* Others*/
+
+#js-pjax-container > div.mt-4.position-sticky.top-0.d-none.d-md-block.color-bg-default.width-full.border-bottom.color-border-muted > div > div > div.Layout-main > div > nav > a:nth-child(-n+4) {
+    color: #fff;
+    background: linear-gradient(#7E40F7 0 0) var(--p, 0) / var(--p, 0) no-repeat;
+    transition: .4s, background-position 0s;
+  }
+
+#js-pjax-container > div.mt-4.position-sticky.top-0.d-none.d-md-block.color-bg-default.width-full.border-bottom.color-border-muted > div > div > div.Layout-main > div > nav > a:nth-child(-n+4):hover {
+    --p: 100%;
+};
+
+/*https://css-tricks.com/cool-hover-effects-using-background-properties/ */
+
+#js-pjax-container > div.container-xl.px-3.px-md-4.px-lg-5 > div > div.Layout-main > div:nth-child(2) > div > div.mt-4.position-relative > div.js-yearly-contributions > div > div > div > svg > g{
+    color: #8e5cf1;
+    fill: #8e5cf1;
+}
+
+#js-pjax-container > div.container-xl.px-3.px-md-4.px-lg-5 > div > div.Layout-main > div:nth-child(2) > div > div.mt-4.position-relative > div.js-yearly-contributions > div > div > div > svg > g > g> rect {
+    color: #8e5cf1;
+    fill: #8e5cf1;
+}
+
+#js-pjax-container > div.container-xl.px-3.px-md-4.px-lg-5 > div > div.Layout-main > div:nth-child(2) > div > div.mt-4.position-relative > div.js-yearly-contributions > div > div > div > svg > g > g> rect:hover {
+    color: #7E40F7;
+    fill: #7E40F7;
+    transition: 250ms;
+}
+
+
+
+#js-pjax-container > div.container-xl.px-3.px-md-4.px-lg-5 > div > div.Layout-sidebar > div > div.js-profile-editable-replace > div.clearfix.d-flex.d-md-block.flex-items-center.mb-4.mb-md-0 > div.position-relative.d-inline-block.col-2.col-md-12.mr-3.mr-md-0.flex-shrink-0 > a > img{
+    border-radius: 5% !important;
+}
+
+/*
+
+.popup-wrapper{
+    display: none;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .popup{
+    text-align: center;
+    width: 100%;
+    max-width: 300px;
+    margin: 10% auto;
+    padding: 20px;
+    background-color: #b4dc5c;
+    color: white;
+    position: relative;
+    border-style: dashed;
+    border-radius: 20px 5px;
+
+    
+  }
+  
+  .popup-close{
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    cursor: pointer;
+  }*/

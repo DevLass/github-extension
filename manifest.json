@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "My Personal Github Bot",
+    "description": "Just a test",
+    "author": "@italicnich on github",
+    "content_scripts": [
+        {
+          "matches": ["https://github.com/italicnich"],
+          "css": ["style.css"],
+          "js": ["index.js"]
+        }
+      ]
+}
