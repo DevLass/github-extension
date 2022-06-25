@@ -1,16 +1,33 @@
-<h1 align="center"> Hey there, i'm Nich, and this is my Personal Terminal</h1>
+<h1 align="center"> Hey there, i'm Nich, and this is my github personalization extension</h1>
  
 <p align="center">
   <img src="https://github.com/italicnich/github-extension/blob/main/readmeimg/img-gif.gif" alt="Page Preview">
 </p>
-  
-<h3 align="justify"> <i>So normally I have a lot to say about my project, but this one is really very simple, It works by reading input's and responses to that command.<br><br>
-Its biggest difference in relation to my other projects is the HTML semantics that I improved a lot. I took some time to learn the importance of main, section, header and footer <br> <br> I intend to study more about SEO in the future, and maybe bring an article about what I learn here, I also intend to add more commands and interactions to this terminal. Your ideas are welcome!!</i> </h3>
-<hr>
+
+<h3 align="justify"> <i>It's already the second extension I make here and in this one, I brought some news, such as the direct alteration of third-party pages. <br> <br> Just on my GitHub page it changes my profile picture, its border-radius, adds a hover for some buttons, add more details to my bio, and mostly adds a button that translates the whole main page to Portuguese. And mainly he change the number of stars to 10000000!</i> </h3>
+
+<h3 align="justify"> <i>For these changes I used 3 change models, </i> </h3>
+
+<p align="center">
+  <img src="https://github.com/italicnich/github-extension/blob/main/readmeimg/code-1.png" alt="Code Preview">
+</p>
+
 <h3 align="justify"> <i>In case you want to implement your commands, just download this project and insert the command in place of "!age" and the result in "side_text.innerHTML"</i> </h3>
 
 <p align="center">
-  <img src="https://github.com/italicnich/terminal/blob/main/readmeimg/code.png" alt="Code Preview" width="500">
+  <img src="https://github.com/italicnich/github-extension/blob/main/readmeimg/code-2.png" alt="Code Preview">
+</p>
+
+<h3 align="justify"> <i>In case you want to implement your commands, just download this project and insert the command in place of "!age" and the result in "side_text.innerHTML"</i> </h3>
+
+<p align="center">
+  <img src="https://github.com/italicnich/github-extension/blob/main/readmeimg/code-3.png" alt="Code Preview">
+</p>
+
+<h3 align="justify"> <i>Other simple features of my extension are changing the username color and style, and to add a button with a hover directly to my LinkedIn</i> </h3>
+
+<p align="center">
+  <img src="https://github.com/italicnich/github-extension/blob/main/readmeimg/img-gif-2.gif" alt="Page Preview">
 </p>
  
 <h3 align="justify">
