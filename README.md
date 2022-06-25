@@ -9,7 +9,7 @@
 <h3 align="justify"> <i>For these changes I used 3 change models, </i> </h3>
 
 <p align="center">
-  <img src="https://github.com/italicnich/github-extension/blob/main/readmeimg/code-1.png" alt="Code Preview">
+  <img src="https://github.com/italicnich/github-extension/blob/main/readmeimg/code1.png" alt="Code Preview" width="700">
 </p>
 
 <h3 align="justify"> <i>In case you want to implement your commands, just download this project and insert the command in place of "!age" and the result in "side_text.innerHTML"</i> </h3>
