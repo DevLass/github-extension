@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there, i'm Nich, and this is my Personal Terminal</h1>
  
 <p align="center">
-  <img src="https://github.com/italicnich/terminal/blob/main/readmeimg/img-gif.gif" alt="Page Preview">
+  <img src="https://github.com/italicnich/github-extension/blob/main/readmeimg/img-gif.gif" alt="Page Preview">
 </p>
   
 <h3 align="justify"> <i>So normally I have a lot to say about my project, but this one is really very simple, It works by reading input's and responses to that command.<br><br>
