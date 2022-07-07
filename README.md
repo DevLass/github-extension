@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there, i'm Nich, and this is my github personalization extension 
-outdated</h1>
+(OUTDATED)</h1>
  
 <p align="center">
   <img src="https://github.com/italicnich/github-extension/blob/main/readmeimg/img-gif.gif" alt="Page Preview">
